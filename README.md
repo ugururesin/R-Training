@@ -1,4 +1,5 @@
-# 'Ugur Uresin's GitHub Page - R Training Notes
+# R Training Notes
+Created by Ugur Uresin
 
 ## Contact
 * [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresin.ugur@gmail.com](mailto:uresin.ugur@gmail.com)
